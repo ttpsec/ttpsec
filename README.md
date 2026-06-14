@@ -62,10 +62,10 @@
 
 ### 🔵 `DEFENSIVE`
 ```diff
-! Seguridad OT / ICS industrial
-! Gestión de vulnerabilidades (CVE)
-! Hardening & arquitectura segura
-! Awareness & TTPSEC Academy
++ Seguridad OT / ICS industrial
++ Gestión de vulnerabilidades (CVE)
++ Hardening & arquitectura segura
++ Awareness & TTPSEC Academy
 ```
 
   </td>
@@ -75,9 +75,9 @@
 
 ### 📜 `COMPLIANCE`
 ```diff
-# Ley 21.663 — Ley Marco de Ciberseguridad
-# Gap Assessment & evaluación de madurez
-# Hoja de ruta y diagnóstico
++ Ley 21.663 — Ley Marco de Ciberseguridad
++ Gap Assessment & evaluación de madurez
++ Hoja de ruta y diagnóstico
 ```
 
   </td>
@@ -85,9 +85,9 @@
 
 ### 🤖 `INNOVATION`
 ```diff
-@ Herramientas propias & automatización
-@ IA aplicada a seguridad
-@ Plataformas SaaS de diagnóstico
++ Herramientas propias & automatización
++ IA aplicada a seguridad
++ Plataformas SaaS de diagnóstico
 ```
 
   </td>
