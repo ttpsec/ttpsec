@@ -4,7 +4,9 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,40:00f5d4,75:1a73e8,100:7b2ff7&height=260&section=header&text=TTPSEC&fontColor=ffffff&fontSize=92&fontAlignY=36&desc=Tactics%20%C2%B7%20Techniques%20%C2%B7%20Procedures&descSize=22&descAlignY=58&animation=fadeIn" width="100%" alt="TTPSEC" />
+<img src="https://raw.githubusercontent.com/ttpsec/ttpsec/main/assets/logo-ttpsec.png" width="200" alt="TTPSEC" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,40:00f5d4,75:1a73e8,100:7b2ff7&height=210&section=header&text=TTPSEC&fontColor=ffffff&fontSize=88&fontAlignY=40&desc=Tactics%20%C2%B7%20Techniques%20%C2%B7%20Procedures&descSize=22&descAlignY=64&animation=fadeIn" width="100%" alt="TTPSEC" />
 
 <a href="https://www.ttpsec.cl">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=00F5D4&center=true&vCenter=true&width=820&height=60&lines=root%40ttpsec%3A~%23+whoami;%3E+Offensive+%26+Defensive+Security+Operators;%3E+Red+Team+%C2%B7+OT%2FICS+%C2%B7+Ley+21.663;%3E+Defendemos+lo+que+otros+no+ven." alt="typing" />
