@@ -1,125 +1,152 @@
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!-- ║                   PERFIL DE GITHUB · TTPSEC                   ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
+<!-- ║              TTPSEC · GITHUB PROFILE  ·  [ CLASSIFIED ]           ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1f3a,50:1a73e8,100:0ea5a4&height=210&section=header&text=TTPSEC&fontColor=ffffff&fontSize=80&fontAlignY=38&desc=Offensive%20%26%20Defensive%20Security%20%C2%B7%20Chile&descSize=20&descAlignY=62" alt="TTPSEC" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,40:00f5d4,75:1a73e8,100:7b2ff7&height=260&section=header&text=TTPSEC&fontColor=ffffff&fontSize=92&fontAlignY=36&desc=Tactics%20%C2%B7%20Techniques%20%C2%B7%20Procedures&descSize=22&descAlignY=58&animation=fadeIn" width="100%" alt="TTPSEC" />
 
-### 🛡️ Ciberseguridad ofensiva y defensiva para empresas en Chile
-
-*Protegemos infraestructura crítica, datos y operaciones. Especialistas en la **Ley Marco de Ciberseguridad 21.663**.*
+<a href="https://www.ttpsec.cl">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=00F5D4&center=true&vCenter=true&width=820&height=60&lines=root%40ttpsec%3A~%23+whoami;%3E+Offensive+%26+Defensive+Security+Operators;%3E+Red+Team+%C2%B7+OT%2FICS+%C2%B7+Ley+21.663;%3E+Defendemos+lo+que+otros+no+ven." alt="typing" />
+</a>
 
 <br/>
 
-[![Sitio web](https://img.shields.io/badge/🌐_ttpsec.cl-1a73e8?style=for-the-badge&logoColor=white)](https://www.ttpsec.cl)
-[![Contacto](https://img.shields.io/badge/✉️_contacto@ttpsec.com-0ea5a4?style=for-the-badge&logoColor=white)](mailto:contacto@ttpsec.com)
-[![Ubicación](https://img.shields.io/badge/📍_Santiago,_Chile-0b1f3a?style=for-the-badge&logoColor=white)](https://www.ttpsec.cl)
+![Profile Views](https://komarev.com/ghpvc/?username=ttpsec&style=for-the-badge&color=00f5d4&label=ACCESOS)
+[![Web](https://img.shields.io/badge/_-ttpsec.cl-1a73e8?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.ttpsec.cl)
+[![Mail](https://img.shields.io/badge/_-contacto@ttpsec.com-7b2ff7?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:contacto@ttpsec.com)
+![Chile](https://img.shields.io/badge/_-Santiago,_Chile-0a0a0f?style=for-the-badge&logo=mapbox&logoColor=00f5d4)
 
 </div>
 
-<br/>
+```console
+┌─[ttpsec@chile]─[~/operations]
+└──╼ $ whoami
 
-## 🏴 Quiénes somos
+   ████████╗████████╗██████╗ ███████╗███████╗ ██████╗
+   ╚══██╔══╝╚══██╔══╝██╔══██╗██╔════╝██╔════╝██╔════╝
+      ██║      ██║   ██████╔╝███████╗█████╗  ██║
+      ██║      ██║   ██╔═══╝ ╚════██║██╔══╝  ██║
+      ██║      ██║   ██║     ███████║███████╗╚██████╗
+      ╚═╝      ╚═╝   ╚═╝     ╚══════╝╚══════╝ ╚═════╝
 
-**TTPSEC SPA** es una empresa chilena de ciberseguridad enfocada en ayudar a organizaciones a **anticipar, resistir y responder** a las amenazas reales. Combinamos la mirada del atacante (*offensive security*) con controles defensivos sólidos y acompañamiento en **cumplimiento normativo**.
+   > Empresa chilena de ciberseguridad.
+   > Pensamos como el atacante para defender como nadie.
+   > [ STATUS ]  ████████████████████  100%  OPERATIONAL
+```
 
-> El nombre nace de **TTP** — *Tactics, Techniques & Procedures* — el lenguaje con el que entendemos a los adversarios para defendernos mejor.
+<div align="center">
 
-<br/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Tarikul-Islam-Anik/main/assets/rainbow-superthin.webp" width="100%" alt="" />
 
-## 🎯 Qué hacemos
+# ⚡ ARSENAL
+
+</div>
 
 <table>
   <tr>
     <td width="50%" valign="top">
 
-### 🔴 Offensive Security
-- Red Team & Ethical Hacking
-- Pentesting de aplicaciones e infraestructura
-- Simulación de adversarios (TTPs · MITRE ATT&CK)
-- Análisis de superficie de ataque
+### 🔴 `OFFENSIVE`
+```diff
++ Red Team & Ethical Hacking
++ Pentesting de apps e infraestructura
++ Simulación de adversarios (MITRE ATT&CK)
++ Análisis de superficie de ataque
+```
 
   </td>
     <td width="50%" valign="top">
 
-### 🔵 Defensive Security
-- Seguridad OT / ICS (infraestructura industrial)
-- Gestión de vulnerabilidades y parchado (CVE)
-- Hardening y arquitectura segura
-- Concientización & Awareness (Academy)
+### 🔵 `DEFENSIVE`
+```diff
+! Seguridad OT / ICS industrial
+! Gestión de vulnerabilidades (CVE)
+! Hardening & arquitectura segura
+! Awareness & TTPSEC Academy
+```
 
   </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
 
-### 📜 Cumplimiento
-- **Ley 21.663** — Ley Marco de Ciberseguridad
-- Evaluación de brechas (*Gap Assessment*)
-- Madurez y hoja de ruta de ciberseguridad
+### 📜 `COMPLIANCE`
+```diff
+# Ley 21.663 — Ley Marco de Ciberseguridad
+# Gap Assessment & evaluación de madurez
+# Hoja de ruta y diagnóstico
+```
 
   </td>
     <td width="50%" valign="top">
 
-### 🤖 Innovación
-- Herramientas propias y automatización
-- IA aplicada a seguridad
-- Plataformas SaaS para evaluación y diagnóstico
+### 🤖 `INNOVATION`
+```diff
+@ Herramientas propias & automatización
+@ IA aplicada a seguridad
+@ Plataformas SaaS de diagnóstico
+```
 
   </td>
   </tr>
 </table>
 
-<br/>
-
-## 🚀 Proyectos y productos
-
-| Proyecto | Descripción | Enlace |
-|---|---|---|
-| 🌐 **ttpsec.cl** | Sitio corporativo · Next.js 15 + Cloudflare Pages | [ttpsec.cl](https://www.ttpsec.cl) |
-| 🏭 **OTAnalyzer** | Análisis de seguridad para entornos OT/ICS | [otanalyzer.com](https://otanalyzer.com) |
-| 📊 **GAP Unified Tool** | Evaluación de brechas y madurez en ciberseguridad | [gap.ttpsec.cl](https://gap.ttpsec.cl) |
-| 🩹 **CVE Patch Pipeline** | Pipeline orquestado de remediación de CVEs | [Repo](https://github.com/ttpsec/cve-patch-pipeline) |
-| ✍️ **Blog TTPSEC** | Artículos y divulgación de ciberseguridad | [blog.ttpsec.cl](https://blog.ttpsec.cl) |
-
-<br/>
-
-## 🧰 Tecnologías
-
 <div align="center">
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Tarikul-Islam-Anik/main/assets/rainbow-superthin.webp" width="100%" alt="" />
+
+# 🎯 OPERACIONES ACTIVAS
 
 </div>
 
-<br/>
-
-## 📫 Conversemos
-
-¿Necesitas evaluar tu postura de seguridad o cumplir con la **Ley 21.663**?
+<table>
+  <tr>
+    <td align="center" width="20%">🌐<br/><b><a href="https://www.ttpsec.cl">ttpsec.cl</a></b></td>
+    <td>Sitio corporativo · <code>Next.js 15 + Cloudflare Pages</code></td>
+  </tr>
+  <tr>
+    <td align="center">🏭<br/><b><a href="https://otanalyzer.com">OTAnalyzer</a></b></td>
+    <td>Análisis de seguridad para entornos <code>OT / ICS</code></td>
+  </tr>
+  <tr>
+    <td align="center">📊<br/><b><a href="https://gap.ttpsec.cl">GAP Tool</a></b></td>
+    <td>Evaluación de brechas y madurez en ciberseguridad</td>
+  </tr>
+  <tr>
+    <td align="center">🩹<br/><b><a href="https://github.com/ttpsec/cve-patch-pipeline">CVE Pipeline</a></b></td>
+    <td>Pipeline orquestado de remediación de <code>CVEs</code></td>
+  </tr>
+  <tr>
+    <td align="center">✍️<br/><b><a href="https://blog.ttpsec.cl">Blog</a></b></td>
+    <td>Divulgación y research de ciberseguridad</td>
+  </tr>
+</table>
 
 <div align="center">
 
-[![Agenda una reunión](https://img.shields.io/badge/📅_Agenda_una_reunión-1a73e8?style=for-the-badge)](https://www.ttpsec.cl/agenda)
-[![Sitio web](https://img.shields.io/badge/🌐_www.ttpsec.cl-0ea5a4?style=for-the-badge)](https://www.ttpsec.cl)
-[![Email](https://img.shields.io/badge/✉️_Escríbenos-0b1f3a?style=for-the-badge)](mailto:contacto@ttpsec.com)
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Tarikul-Islam-Anik/main/assets/rainbow-superthin.webp" width="100%" alt="" />
 
-</div>
+# 🧰 STACK
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,python,cloudflare,linux,docker,bash,nodejs,git,vercel&theme=dark&perline=12" alt="stack" />
+</a>
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Tarikul-Islam-Anik/main/assets/rainbow-superthin.webp" width="100%" alt="" />
+
+# 📡 INICIAR CONTACTO
+
+¿Tu organización necesita evaluar su seguridad o cumplir con la **Ley 21.663**?
+
+[![Agenda](https://img.shields.io/badge/📅_AGENDAR_REUNIÓN-00f5d4?style=for-the-badge&logoColor=black)](https://www.ttpsec.cl/agenda)
+[![Web](https://img.shields.io/badge/🌐_WWW.TTPSEC.CL-1a73e8?style=for-the-badge)](https://www.ttpsec.cl)
+[![Mail](https://img.shields.io/badge/✉️_ESCRÍBENOS-7b2ff7?style=for-the-badge)](mailto:contacto@ttpsec.com)
 
 <br/>
 
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2ff7,25:1a73e8,60:00f5d4,100:0a0a0f&height=140&section=footer&text=defend.%20attack.%20comply.&fontColor=ffffff&fontSize=22&fontAlignY=72" width="100%" alt="" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5a4,50:1a73e8,100:0b1f3a&height=120&section=footer" alt="" width="100%" />
-
-<sub>🛡️ <strong>TTPSEC SPA</strong> · Santiago, Chile · <em>Tactics · Techniques · Procedures</em></sub>
+<sub>🛡️ <strong>TTPSEC SPA</strong> · Santiago, Chile · <code>git commit -m "stay secure"</code></sub>
 
 </div>
