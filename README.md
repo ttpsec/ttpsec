@@ -37,7 +37,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Tarikul-Islam-Anik/main/assets/rainbow-superthin.webp" width="100%" alt="" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="" />
 
 # ⚡ ARSENAL
 
@@ -94,7 +94,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Tarikul-Islam-Anik/main/assets/rainbow-superthin.webp" width="100%" alt="" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="" />
 
 # 🎯 OPERACIONES ACTIVAS
 
@@ -125,7 +125,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Tarikul-Islam-Anik/main/assets/rainbow-superthin.webp" width="100%" alt="" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="" />
 
 # 🧰 STACK
 
@@ -133,7 +133,7 @@
   <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,python,cloudflare,linux,docker,bash,nodejs,git,vercel&theme=dark&perline=12" alt="stack" />
 </a>
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Tarikul-Islam-Anik/main/assets/rainbow-superthin.webp" width="100%" alt="" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="" />
 
 # 📡 INICIAR CONTACTO
 
